@@ -1,0 +1,291 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{phishtank}
+{PhishTank|Join the Fight against Phishing}.
+\newblock \url{https://www.phishtank.com/index.php}.
+\newblock Accessed on 18 July 2021.
+
+\bibitem{phishing-detection}
+Mafaz Alanezi.
+\newblock Phishing detection methods: A review.
+\newblock {\em Technium: Romanian Journal of Applied Sciences and Technology},
+  3:19--35, 11 2021.
+
+\bibitem{alexa-website}
+Alexa.
+\newblock Keyword research, competitive analysis, \& website ranking|alexa, no
+  year.
+\newblock Accessed: 18 July 2021.
+
+\bibitem{aljofey2021effective}
+Ali Aljofey, Qingshan Jiang, Qiang Qu, Mingqing Huang, and Jean-Pierre
+  Niyigena.
+\newblock An effective phishing detection model based on character level
+  convolutional neural network from url.
+\newblock {\em Sensors}, 21(5):1612, 2021.
+
+\bibitem{APWG-Report}
+APWG.
+\newblock Phishing activity trends report., 2022.
+\newblock https://docs.apwg.org/reports/apwg_trends_report_q3_2022.pdf.
+
+\bibitem{VB2018}
+V. B. et~al.
+\newblock Study on phishing attacks.
+\newblock {\em International Journal of Computer Applications}, 2018.
+
+\bibitem{basit2020comprehensive}
+Abdul Basit, Muhammad Zafar, Xiaodong Liu, Aneeqa~Rashid Javed, Zafar Jalil,
+  and Kashif Kifayat.
+\newblock A comprehensive survey of ai-enabled phishing attacks detection
+  techniques.
+\newblock {\em Telecommunication Systems}, 76(1):139--154, 2020.
+
+\bibitem{phishing-detection1}
+Ram Basnet, Andrew Sung, and Qingzhong Liu.
+\newblock Rule-based phishing attack detection.
+\newblock 04 2012.
+
+\bibitem{unb-url2016}
+{Canadian Institute for Cybersecurity|UNB}.
+\newblock {URL 2016|Datasets|Research|Canadian Institute for
+  Cybersecurity|UNB}, 2016.
+\newblock Accessed: 18 July 2021.
+
+\bibitem{chollet2017xception}
+Fran{\c{c}}ois Chollet.
+\newblock Xception: Deep learning with depthwise separable convolutions.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1251--1258, 2017.
+
+\bibitem{Authors04}
+Ashit~Kumar Dutta.
+\newblock Detecting phishing websites using machine learning technique, 2021.
+
+\bibitem{elsadig2021intelligent}
+Muna Elsadig, Ashraf~Osman Ibrahim, Shakila Basheer, Manal~Abdullah Alohali,
+  Sara Alshunaifi, Haya Alqahtani, Nihal Alharbi, and Wamda Nagmeldin.
+\newblock Intelligent deep machine learning cyber phishing url detection based
+  on bert features extraction.
+\newblock {\em Applied Sciences}, 11(2):876, 2021.
+
+\bibitem{FBI-IC3}
+FBI.
+\newblock Internet crime complaint center (ic3),annual reports, 2022.
+\newblock https://www.ic3.gov/Home/AnnualReports.
+
+\bibitem{he2016deep}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016.
+
+\bibitem{huang2017densely}
+Gao Huang, Zhuang Liu, Laurens van~der Maaten, and Kilian~Q. Weinberger.
+\newblock Densely connected convolutional networks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 4700--4708, 2017.
+
+\bibitem{ioffe2015batch}
+Sergey Ioffe and Christian Szegedy.
+\newblock Batch normalization: Accelerating deep network training by reducing
+  internal covariate shift.
+\newblock In {\em Proceedings of the 32nd International Conference on Machine
+  Learning}, pages 448--456, 2015.
+
+\bibitem{jain2021survey}
+Akanksha~K. Jain and Brij~B. Gupta.
+\newblock A survey of phishing attack techniques, defence mechanisms and open
+  research challenges.
+\newblock {\em Enterprise Information Systems}, pages 1--39, 2021.
+
+\bibitem{kalaharsha2021detecting}
+Poornachandra Kalaharsha and B.M. Mehtre.
+\newblock Detecting phishing sites--an overview.
+\newblock {\em arXiv preprint arXiv:2103.12739}, 2021.
+
+\bibitem{kannan2014preprocessing}
+S Kannan, V Gurusamy, and S Vijayarani.
+\newblock Preprocessing techniques for text mining.
+\newblock {\em International Journal of Computer Applications}, 101(5):1--7,
+  2014.
+
+\bibitem{NIPS2012_4824}
+Alex Krizhevsky, Ilya Sutskever, and Geoffrey~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In P. Bartlett, F.C.N. Pereira, C.J.C. Burges, L. Bottou, and K.Q.
+  Weinberger, editors, {\em Advances in Neural Information Processing Systems
+  25}, pages 1097--1105. Curran Associates, Inc., 2012.
+
+\bibitem{krombholz2015advanced}
+Katharina Krombholz, Heidelinde Hobel, Markus Huber, and Edgar Weippl.
+\newblock Advanced social engineering attacks.
+\newblock {\em Journal of Information Security and Applications}, 22:113--122,
+  2015.
+
+\bibitem{lam2009counteracting}
+I-F Lam, W-C Xiao, S-C Wang, and K-T Chen.
+\newblock Counteracting phishing page polymorphism: An image layout analysis
+  approach.
+\newblock In {\em International Conference on Information Security and
+  Assurance}, pages 270--279. Springer, 2009.
+
+\bibitem{726791}
+Y. Lecun, L. Bottou, Y. Bengio, and P. Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, 86(11):2278--2324, 1998.
+
+\bibitem{phishing-detection2}
+Amaad Mirza, Sohail Asghar, Ayesha Zafar, and Saira Gilani.
+\newblock A hybrid model to detect phishing-sites using supervised learning
+  algorithms.
+\newblock pages 1126--1133, 12 2016.
+
+\bibitem{mohammad2015uci}
+Rami M.~A. Mohammad, Lee McCluskey, and Fadi Thabtah.
+\newblock {UCI} machine learning repository: Phishing websites data set.
+\newblock \url{https://archive.ics.uci.edu/ml/datasets/Phishing+Websites},
+  2015.
+\newblock Accessed on 26 March 2015.
+
+\bibitem{Authors07}
+Bhanu~Teja Mummadi.
+\newblock Detection of phishing websites using supervised learning, 2022.
+
+\bibitem{Authors03}
+Mahmoud Othma.
+\newblock An empirical study towards an automatic phishin, 2022.
+
+\bibitem{othman2021empirical}
+Mahmoud Othman and Hesham Hassan.
+\newblock An empirical study towards an automatic phishing attack detection
+  using ensemble stacking model.
+\newblock {\em Journal of Information Security and Applications}, 61:102872,
+  2021.
+
+\bibitem{Authors01}
+Ani Petrosyan.
+\newblock Worldwide digital population 2023, 2023.
+\newblock
+  https://www.statista.com/statistics/617136/digital-population-worldwide/.
+
+\bibitem{prabakaran2021enhanced}
+Manoj~Kumar Prabakaran, Abinaya~Devi Chandrasekar, and Parvathy~Meenakshi
+  Sundaram.
+\newblock An enhanced deep learning‐based phishing detection mechanism to
+  effectively identify malicious urls using variational autoencoders.
+\newblock {\em Security and Communication Networks}, 2021, 2021.
+
+\bibitem{rangapur2021phish}
+Aman Rangapur, Tarun Kanakam, and P Dhanvanthini.
+\newblock Phish-defence: Phishing detection using deep recurrent neural
+  networks.
+\newblock {\em IEEE Access}, 9:51488--51500, 2021.
+
+\bibitem{rumelhart1986learning}
+David~E Rumelhart, Geoffrey~E Hinton, and Ronald~J Williams.
+\newblock Learning representations by back-propagating errors.
+\newblock {\em nature}, 323(6088):533--536, 1986.
+
+\bibitem{Authors05}
+Muhammad Sanwal.
+\newblock A hybrid phishing detection model based on transformer characterbert
+  from urls, 2021.
+
+\bibitem{Machine-learning-algorithms}
+Iqbal Sarker.
+\newblock Machine learning: Algorithms, real-world applications and research
+  directions.
+\newblock {\em SN Computer Science}, 2, 03 2021.
+
+\bibitem{shahrivari2020phishing}
+Vahid Shahrivari, Mohammad~Mahdi Darabi, and Mohammad Izadi.
+\newblock Phishing detection using machine learning techniques.
+\newblock {\em arXiv preprint arXiv:2009.11116}, 2020.
+
+\bibitem{simonyan2014very}
+Karen Simonyan and Andrew Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock In {\em International Conference on Learning Representations}, 2015.
+
+\bibitem{singh2020phishing}
+Chhaya Singh.
+\newblock Phishing website detection based on machine learning: A survey.
+\newblock In {\em Proceedings of the 2020 6th International Conference on
+  Advanced Computing and Communication Systems (ICACCS)}, pages 274--279,
+  Coimbatore, India, March 2020. IEEE.
+
+\bibitem{srivastava2015highway}
+Rupesh~K Srivastava, Klaus Greff, and J{\"u}rgen Schmidhuber.
+\newblock Highway networks.
+\newblock In {\em International Conference on Machine Learning}, pages
+  646--654. PMLR, 2015.
+
+\bibitem{szegedy2015going}
+Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir
+  Anguelov, Dumitru Erhan, Vincent Vanhoucke, and Andrew Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1--9, 2015.
+
+\bibitem{tan2018phishing}
+Chia~Li Tan.
+\newblock Phishing dataset for machine learning: Feature evaluation.
+\newblock 2018.
+
+\bibitem{grega2020datasets}
+Grega V., Iztok F., and Vili P.
+\newblock Datasets for phishing websites detection.
+\newblock {\em Data in Brief}, 3:105196, 2020.
+
+\bibitem{vijayalakshmi2020web}
+M. Vijayalakshmi, S.~M. Shalinie, and Ming-Hsuan Yang.
+\newblock Web phishing detection techniques: A survey on the state-of-the-art,
+  taxonomy and future directions.
+\newblock {\em IET Networks}, 9(4):235--246, 2020.
+
+\bibitem{wang2021deep}
+Shan Wang, Sulaiman Khan, Chuyi Xu, Shah Nazir, and Abdul Hafeez.
+\newblock Deep learning-based efficient model development for phishing
+  detection using random forest and blstm classifiers.
+\newblock {\em Sensors}, 21(3):976, 2021.
+
+\bibitem{Waziri20151WF}
+Ibrahim Waziri.
+\newblock 1 website forgery : Understanding phishing attacks \&.
+\newblock 2015.
+
+\bibitem{zagoruyko2016wide}
+Sergey Zagoruyko and Nikos Komodakis.
+\newblock Wide residual networks.
+\newblock In {\em Proceedings of the British Machine Vision Conference}, pages
+  87.1--87.12. BMVA Press, 2016.
+
+\bibitem{Authors06}
+Ammara Zamir.
+\newblock Phishing web site detection using diverse machine learning
+  algorithms, 2020.
+
+\bibitem{zeiler2014visualizing}
+Matthew~D Zeiler and Rob Fergus.
+\newblock Visualizing and understanding convolutional networks.
+\newblock In {\em European conference on computer vision}, pages 818--833.
+  Springer, 2014.
+
+\bibitem{Authors02}
+H. Zhang.
+\newblock A survey on phishing detection techniques, 2020.
+
+\bibitem{zhang2017polynet}
+Xieyuanli Zhang, Xinyu Zhou, Mengxiao Lin, and Jian Sun.
+\newblock Polynet: A pursuit of structural diversity in very deep networks.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 3900--3908, 2017.
+
+\bibitem{zieni2019phishing}
+Rasha Zieni, Luisa Massari, and Maria~Carla Calzarossa.
+\newblock Phishing or not phishing? a survey on the detection of phishing
+  websites.
+\newblock {\em IEEE Access}, 7:112758--112778, 2019.
+
+\end{thebibliography}
