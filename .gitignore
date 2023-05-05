@@ -1,0 +1,11 @@
+data/*
+models/*
+notebooks/*
+src/*
+
+## Ignore latex build files
+*.fdb_latexmk
+*.aux
+*.fls
+*.log
+*.synctex.gz
