@@ -31,7 +31,6 @@ Transformers](./reading_papers)
 We will [Writing status of paper](./writting_paper/cvpr.pdf)
 
 
-
 # Contributation
 
 * Work your own branch
